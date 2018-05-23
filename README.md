@@ -1,2 +1,3 @@
-# GitTest01
-Learning to use Git on the command line. 
+# IonicD3Test01
+Ionic 3 mobile app implementing D3 library with pie chart example.
+
